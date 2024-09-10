@@ -10,8 +10,7 @@ package studentlist;
  */
 public class Student {
     private String name;
-    private String India;
-    
+    private String college;
     
     public String getName() {
         return name;
